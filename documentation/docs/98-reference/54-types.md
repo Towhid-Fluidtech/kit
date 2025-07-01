@@ -1,4 +1,4 @@
----
+New ---
 title: Types
 ---
 
